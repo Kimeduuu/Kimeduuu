@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kimeduuu
+- 👋 Hi, I’m Heitor
 - 👀 I’m interested in Js, Ts, React (in general) and Python
 - 🌱 I’m currently learning React
 - 📫 You can reach me in youtube how "Kimedu"...
