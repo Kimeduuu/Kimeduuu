@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Here I'll post some of my projects!</h4>
+<text align="center">Here I'll post some of my projects!</text>
 
 ###
 
